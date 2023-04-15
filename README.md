@@ -1,5 +1,5 @@
 # Fitfolio - Landing Page
-[Webpage Link](https://jakac13.github.io/fitfolio/)
+[Webpage Link](https://jakac13.github.io/fitfolio-website/)
 
 A simple landing page that displays the whole process of creating my own Flutter Mobile Application. Designed and developed a landing page from scratch using native HTML, CSS, and JavaScript.
 
